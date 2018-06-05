@@ -1,2 +1,2 @@
 # juliet-pringle
-c++ projects
+c++ projects --github: https://github.com/graezzon/juliet-pringle.git
